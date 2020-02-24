@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #maintitle{
+            color:rgb(252, 218, 0);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="maintitle">Meow's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#cookedhw">Cooked Harp Wings</a></li>
+             <ul>
+               <li><a href="#cookedhwi">Ingredients</a></li> 
+               <li><a href="#cookedhws">Steps</a></li>
+             </ul>
+             <li><a href="#cookedts">Tears of the Sea</a></li>
+             <ul>
+               <li><a href="#cookedtsi">Ingredients</a></li> 
+               <li><a href="#cookedtss">Steps</a></li>
+             </ul>
+             <li><a href="#cookedbg">Blood of the Gods</a></li>
+             <ul>
+               <li><a href="#cookedbgi">Ingredients</a></li> 
+               <li><a href="#cookedbgs">Steps</a></li>
+             </ul>
+        </ol>
+        
+        
+        <h2 id="cookedhw">Cooked Harp Wings Recipe</h2>
+        <img src="https://www.kasandbox.org/programming-images/avatars/duskpin-ultimate.png" height="140">       
+        <ul>
+            <li>Time: 4:00</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="cookedhwi">Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+             <tr>
+                 <td> Harp Wings </td>
+                 <td> 4 pcs </td>
+             </tr>
+               <tr>
+                 <td> Shimmer Salt </td>
+                 <td> 3 tea spoon </td>
+             </tr>
+               <tr>
+                 <td> Miller Pepper </td>
+                 <td> 2 pcs  </td>
+             </tr>
+               <tr>
+                 <td> Pure Aqua </td>
+                 <td> 2 cups </td>
+             </tr>
+            </tbody>
+        </table>
+        
+        <p id="cookedhws">
+        <strong>Step 1:</strong> Roast the harp wings for 4 eons <br>
+        <strong>Step 2:</strong> Drizzle it with Shimmer Salt <br>
+        <strong>Step 3:</strong> Wait until it seeps <br>
+        <strong>Step 4:</strong> Sprinkle the Miller Pepper <br>
+        <strong>Step 5:</strong> Pour the Pure Aqua <br>
+        <strong>Step 6:</strong> Wait until it rots (4 eons - 6 eons)<br>
+        <strong>Step 7:</strong> Consume <br>
+      </p>
+        
+    <p><em>Source: <a href="https://www.youtube.com/watch?v=BywDOO99Ia0&t=3586s">The Cookbook of Gods</a></em></p>
+    
+    
+     <h2 id="cookedts">Tears of the Sea</h2>
+     <img src="https://www.kasandbox.org/programming-images/avatars/aqualine-tree.png" height="140">
+        
+        <ul>
+            <li>Time: 2:00</li>
+            <li>Serves: 8</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="cookedtsi">Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+             <tr>
+                 <td> Whale Meat </td>
+                 <td> 2 pcs </td>
+             </tr>
+               <tr>
+                 <td> Shimmer Salt </td>
+                 <td> 6 tea spoon </td>
+             </tr>
+               <tr>
+                 <td> Whale Tears </td>
+                 <td> 4 cups  </td>
+             </tr>
+               <tr>
+                 <td> Pure Aqua </td>
+                 <td> 6 cups </td>
+             </tr>
+            </tbody>
+        </table>
+        
+        <p id="cookedtss">
+        <strong>Step 1:</strong> Roast the Whale Meat for 4 eons <br>
+        <strong>Step 2:</strong> Drizzle it with Shimmer Salt <br>
+        <strong>Step 3:</strong> Wait until it seeps <br>
+        <strong>Step 4:</strong> Pour the Whale Tears <br>
+        <strong>Step 5:</strong> Wait until dry <br>
+        <strong>Step 6:</strong> Pour the Pure Aqua<br>
+        <strong>Step 7:</strong> Consume <br>
+      </p>
+        
+    <p><em>Source: <a href="https://www.youtube.com/watch?v=BywDOO99Ia0&t=3586s">The Cookbook of Gods</a></em></p>
+    
+    
+    <h2 id="cookedbg">Bloood of the Gods</h2>
+     <img src="https://www.kasandbox.org/programming-images/avatars/leafers-seed.png" height="140">
+        
+        <ul>
+            <li>Time: 1:00</li>
+            <li>Serves: 12</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="cookedbgi">Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+             <tr>
+                 <td> Gods </td>
+                 <td> 4 pcs </td>
+             </tr>
+               <tr>
+                 <td> Shimmer Salt </td>
+                 <td> 2 tea spoon </td>
+             </tr>
+               <tr>
+                 <td> Pure Aqua </td>
+                 <td> 1 cups </td>
+             </tr>
+            </tbody>
+        </table>
+        
+        <p id="cookedbgs">
+        <strong>Step 1:</strong> Roast gods for 2 minutes <br>
+        <strong>Step 2:</strong> Drizzle it with Shimmer Salt <br>
+        <strong>Step 3:</strong> Wait until they scream <br>
+        <strong>Step 4:</strong> Pour the Pure Aqua <br>
+        <strong>Step 5:</strong> Wait until wet <br>
+        <strong>Step 6:</strong> Consume <br>
+      </p>
+        
+    <p><em>Source: <a href="https://www.youtube.com/watch?v=BywDOO99Ia0&t=3586s">The Cookbook of Gods</a></em></p>
+    </body>
+</html>
